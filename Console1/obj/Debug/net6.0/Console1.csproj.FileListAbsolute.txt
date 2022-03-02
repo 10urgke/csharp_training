@@ -1,0 +1,15 @@
+/Users/onurgokce/RiderProjects/Project1/Console1/bin/Debug/net6.0/Console1
+/Users/onurgokce/RiderProjects/Project1/Console1/bin/Debug/net6.0/Console1.deps.json
+/Users/onurgokce/RiderProjects/Project1/Console1/bin/Debug/net6.0/Console1.runtimeconfig.json
+/Users/onurgokce/RiderProjects/Project1/Console1/bin/Debug/net6.0/Console1.dll
+/Users/onurgokce/RiderProjects/Project1/Console1/bin/Debug/net6.0/ref/Console1.dll
+/Users/onurgokce/RiderProjects/Project1/Console1/bin/Debug/net6.0/Console1.pdb
+/Users/onurgokce/RiderProjects/Project1/Console1/obj/Debug/net6.0/Console1.csproj.AssemblyReference.cache
+/Users/onurgokce/RiderProjects/Project1/Console1/obj/Debug/net6.0/Console1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/onurgokce/RiderProjects/Project1/Console1/obj/Debug/net6.0/Console1.AssemblyInfoInputs.cache
+/Users/onurgokce/RiderProjects/Project1/Console1/obj/Debug/net6.0/Console1.AssemblyInfo.cs
+/Users/onurgokce/RiderProjects/Project1/Console1/obj/Debug/net6.0/Console1.csproj.CoreCompileInputs.cache
+/Users/onurgokce/RiderProjects/Project1/Console1/obj/Debug/net6.0/Console1.dll
+/Users/onurgokce/RiderProjects/Project1/Console1/obj/Debug/net6.0/ref/Console1.dll
+/Users/onurgokce/RiderProjects/Project1/Console1/obj/Debug/net6.0/Console1.pdb
+/Users/onurgokce/RiderProjects/Project1/Console1/obj/Debug/net6.0/Console1.genruntimeconfig.cache
